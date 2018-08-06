@@ -1,5 +1,5 @@
 # myFirstProject
-#通用组件
+# 通用组件
 ## DataTable
 DataTable中设置了三个参数，src, link, widthSize.
 ```
